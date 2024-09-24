@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    padding: 100px;
+    width: 1750px;
+    height: 100vh;
+}
+
+header {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    border: 2px solid black;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1750px;
+}
+
+.container1 {
+    background-color: rgba(172, 255, 47, 0.374);
+    width: 15%;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;   
+    font-size: 30px; 
+    border: 2px solid black;
+}
+
+.menu {
+    margin-top: 50px;
+}
+
+.container2 {
+    background-color: rgba(100, 193, 104, 0.687);
+    width: 85%;
+    height: 900px;
+    position: relative;
+    border: 2px solid black;
+}
+
+/* //////////////////////////////////////////////////////// */
+
+/* index.html */
+
+.thanhvien {
+    font-size: 30px;
+    margin: 50px;
+    margin-left: 100px;
+}
+
+/* html.html */
+.noidung {
+    font-size: 30px;
+    padding: 20px;
+}
+
+.picture {
+    height: 60%;
+    width: 60%;
+}
+
+/* tags.html   */
+
+.infor {
+    font-size: 30px;
+    padding: 100px;
+}
+
+.maintags {
+    font-size: 30px;
+    padding: 100px
+}
+
+/* css.html */
+ .css1 {
+    font-size: 30px;
+    padding: 100px
+ }
+
+
+
+
